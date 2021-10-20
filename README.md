@@ -31,3 +31,9 @@ mvn clean test site
 ```
 
 # Chrome version 94.0.4606.81
+
+# Reports location
+```sh
+\target\site\index.html
+\target\site\surefire-report.html
+```
